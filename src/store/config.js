@@ -1,7 +1,7 @@
 
 const config = {
 	state: {
-        site_name:"NANITE777",
+        site_name:"CARBON777",
         download_url:"https://download.WynnXwin.com/",
         ssid:"",
         error:localStorage.getItem('error')||null,
