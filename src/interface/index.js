@@ -4,7 +4,7 @@ import jquery from 'jquery';
 
 let commonUrl = "";
 let domainList = [
-    "https://admin.onerous777.com",//线下域名一
+    "https://admin.elitepg777.com",//线下域名一
     // "https://api.angelpg777.com",//线下域名一
 ];
 let ms = 10000000000;
